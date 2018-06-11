@@ -2,6 +2,8 @@ import glob
 import json
 import os
 
+dockerfile_repo = "https://github.com/SniperOJ/Challenge-Dockerfiles"
+
 
 def render(challenge_type='WEB'):
     template = "## %s\n\n" % (challenge_type.upper())
@@ -17,6 +19,14 @@ def render(challenge_type='WEB'):
         )
         template += "* Level: %s  \n" % (":star:" * int(data['level']))
         template += "* Points: %s  \n" % (data['points'])
+        template += "* Dockerfile: [%s](%s)  \n" % (
+            name,
+            "%s/tree/master/%s/%s" % (
+                dockerfile_repo,
+                challenge_type,
+                name,
+            ),
+        )
         template += "* Competition: [%s](%s)  \n" % (
             data['competition_name'],
             data['competition_website'],
@@ -50,8 +60,16 @@ def render_root():
         if len(challenges) == 0:
             continue
         template += '#### %s\n\n' % (challenge_type.upper())
-        template += '| Competition | Name | Points | Author | Level |  \n'
-        template += '| :---------: | :--: | :----: | :----: | :---: |  \n'
+        headers = [
+            'Competition',
+            'Name',
+            'Dockerfile',
+            'Points',
+            'Author',
+            'Level',
+        ]
+        template += '| %s |  \n' % (" | ".join(headers))
+        template += '| %s  \n' % (":-: |" * len(headers))
         for challenge in challenges:
             data = json.loads(open(challenge).read())
             competition = "[%s](%s)" % (
@@ -69,10 +87,19 @@ def render_root():
                 data['author_name'],
                 data['author_blog']
             )
+            dockerfile = "[%s](%s)" % (
+                challenge_name,
+                "%s/tree/master/%s/%s" % (
+                    dockerfile_repo,
+                    challenge_type,
+                    challenge_name,
+                ),
+            )
             level = ":star:" * int(data['level'])
-            template += "|%s|%s|%s|%s|%s|  \n" % (
+            template += "|%s|%s|%s|%s|%s|%s|  \n" % (
                 competition,
                 name,
+                dockerfile,
                 points,
                 author,
                 level,

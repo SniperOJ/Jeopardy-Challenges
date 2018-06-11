@@ -5,6 +5,7 @@
 * Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [2048](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/2048)  
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
@@ -14,6 +15,7 @@
 * Author: []()  
 * Level: :star::star:  
 * Points: 200  
+* Dockerfile: [baby-ssrf](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/baby-ssrf)  
 * Competition: []()  
 * References:  
 * Attachments:  
@@ -23,6 +25,7 @@
 * Author: []()  
 * Level: :star::star:  
 * Points: 200  
+* Dockerfile: [guess-the-code](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/guess-the-code)  
 * Competition: []()  
 * References:  
 * Attachments:  
@@ -32,6 +35,7 @@
 * Author: []()  
 * Level: :star::star::star:  
 * Points: 300  
+* Dockerfile: [r-cursive-revenge](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/r-cursive-revenge)  
 * Competition: []()  
 * References:  
 * Attachments:  
@@ -41,6 +45,7 @@
 * Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star::star::star:  
 * Points: 300  
+* Dockerfile: [phar](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/phar)  
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
@@ -50,6 +55,7 @@
 * Author: []()  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [php-object-injection](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/php-object-injection)  
 * Competition: []()  
 * References:  
 * Attachments:  
@@ -59,6 +65,7 @@
 * Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star::star:  
 * Points: 200  
+* Dockerfile: [pull-the-string](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/pull-the-string)  
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
@@ -68,6 +75,7 @@
 * Author: []()  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [php-weak-type](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/php-weak-type)  
 * Competition: []()  
 * References:  
 * Attachments:  
@@ -77,6 +85,7 @@
 * Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [sniperoj-web-browser](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/sniperoj-web-browser)  
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
@@ -86,6 +95,7 @@
 * Author: []()  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [as-fast-as-you-can](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/as-fast-as-you-can)  
 * Competition: []()  
 * References:  
 * Attachments:  
@@ -95,6 +105,7 @@
 * Author: []()  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [baby-eval](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/baby-eval)  
 * Competition: []()  
 * References:  
 * Attachments:  
@@ -104,6 +115,7 @@
 * Author: []()  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [bypass-php-exit](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/bypass-php-exit)  
 * Competition: []()  
 * References:  
 * Attachments:  
@@ -113,6 +125,7 @@
 * Author: [Wisdom Tree](https://laworigin.github.io/)  
 * Level: :star::star::star:  
 * Points: 300  
+* Dockerfile: [2018-suctf-homework](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/2018-suctf-homework)  
 * Competition: [2018-SUCTF](http://suctf.xctf.org.cn/)  
 * References:  
 * Attachments:  
@@ -122,6 +135,7 @@
 * Author: []()  
 * Level: :star::star::star:  
 * Points: 300  
+* Dockerfile: [trick-on-base64](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/trick-on-base64)  
 * Competition: []()  
 * References:  
 * Attachments:  
@@ -131,6 +145,7 @@
 * Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star::star:  
 * Points: 200  
+* Dockerfile: [punctuation-webshell](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/punctuation-webshell)  
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  

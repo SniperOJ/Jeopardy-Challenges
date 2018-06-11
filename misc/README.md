@@ -5,6 +5,7 @@
 * Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [md5-collision](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/misc/md5-collision)  
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
@@ -14,6 +15,7 @@
 * Author: [Ringzer0team](https://ringzer0team.com/)  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [bash-jail](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/misc/bash-jail)  
 * Competition: [Ringzer0team](https://ringzer0team.com/)  
 * References:  
 * Attachments:  
@@ -23,6 +25,7 @@
 * Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [you-sha-bi](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/misc/you-sha-bi)  
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
   * http://sdpha2.ucsd.edu/Lab_Equip_Manuals/usb_20.pdf  
@@ -34,6 +37,7 @@
 * Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star:  
 * Points: 100  
+* Dockerfile: [compare-flag](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/misc/compare-flag)  
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
