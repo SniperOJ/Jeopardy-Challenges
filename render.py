@@ -58,7 +58,12 @@ def render_root():
                 data['competition_name'],
                 data['competition_website'],
             )
-            name = challenge.split("/")[1].replace(".json", "")
+            challenge_name = challenge.split("/")[1].replace(".json", "")
+            name = "[%s](%s#%s)" % (
+                challenge_name,
+                challenge_type,
+                challenge_name,
+            )
             points = data['points']
             author = "[%s](%s)" % (
                 data['author_name'],
