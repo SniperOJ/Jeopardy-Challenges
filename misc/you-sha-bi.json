@@ -1,12 +1,15 @@
 {
-    "challenge_type": "MISC",
+    "competition_name": "",
+    "competition_website": "",
+    "author_name": "",
+    "author_blog": "",
+    "level": 1,
     "flag": "",
     "points": 100,
     "references": [
         "http://sdpha2.ucsd.edu/Lab_Equip_Manuals/usb_20.pdf"
     ],
     "description": "",
-    "title": "you-sha-bi",
     "attachments": [
         "https://raw.githubusercontent.com/SniperOJ/CDN/master/misc/you-sha-bi.pcapng"
     ]

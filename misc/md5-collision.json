@@ -1,9 +1,12 @@
 {
-    "challenge_type": "MISC",
+    "competition_name": "",
+    "competition_website": "",
+    "author_name": "",
+    "author_blog": "",
+    "level": 1,
     "flag": "",
     "points": 100,
     "references": [],
     "description": "http://misc.sniperoj.com:30002/",
-    "title": "md5-collision",
     "attachments": []
 }

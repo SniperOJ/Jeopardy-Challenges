@@ -1,9 +1,12 @@
 {
-    "challenge_type": "WEB",
+    "competition_name": "",
+    "competition_website": "",
+    "author_name": "",
+    "author_blog": "",
+    "level": 1,
     "flag": "",
     "points": 100,
     "references": [],
     "description": "http://web.sniperoj.com:10001/",
-    "title": "baby-eval",
     "attachments": []
 }

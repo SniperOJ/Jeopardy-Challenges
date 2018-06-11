@@ -1,9 +1,12 @@
 {
-    "challenge_type": "PWN",
+    "competition_name": "",
+    "competition_website": "",
+    "author_name": "",
+    "author_blog": "",
+    "level": 1,
     "flag": "",
     "points": 100,
     "references": [],
     "description": "nc pwn.sniperoj.com 20006",
-    "title": "shorter-shellcode-x86-64",
     "attachments": []
 }
