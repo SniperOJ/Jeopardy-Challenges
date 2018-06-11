@@ -41,7 +41,10 @@ def render(challenge_type='WEB'):
 
 def render_root():
     template = "## Challenges\n\n"
-    types = [x[0].replace("./", "") for x in os.walk(".")][1:]
+    types = [x[0].replace("./", "")
+             for x in os.walk(".")
+             if not x[0].startswith("./.")
+             ][1:]
     for challenge_type in types:
         template += '#### %s\n\n' % (challenge_type.upper())
         template += '| Competition | Name | Points | Author | Level |  \n'
@@ -49,25 +52,35 @@ def render_root():
         challenges = glob.glob("%s/*.json" % (challenge_type))
         for challenge in challenges:
             data = json.loads(open(challenge).read())
-            competition = data['competition']
-            title = data['title']
+            competition = "[%s](%s)" % (
+                data['competition_name'],
+                data['competition_website'],
+            )
+            name = challenge.split("/")[1].replace(".json", "")
             points = data['points']
-            author = data['author']
-            level = data['level']
-            template += "|%s|%s|%s|%s|%s|" % (
+            author = "[%s](%s)" % (
+                data['author_name'],
+                data['author_blog']
+            )
+            level = ":star:" * int(data['level'])
+            template += "|%s|%s|%s|%s|%s|  \n" % (
                 competition,
-                title,
+                name,
                 points,
                 author,
                 level,
             )
-    with open("README.md" % (challenge_type), "w+") as f:
+        template += "\n"
+    with open("README.md", "w+") as f:
         f.write(template)
 
 
 def main():
-    # render_root()
-    types = [x[0].replace("./", "") for x in os.walk(".")][1:]
+    render_root()
+    types = [x[0].replace("./", "")
+             for x in os.walk(".")
+             if not x[0].startswith("./.")
+             ][1:]
     for challenge_type in types:
         render(challenge_type=challenge_type)
 
