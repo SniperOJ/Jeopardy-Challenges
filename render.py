@@ -42,13 +42,6 @@ def render(challenge_type='WEB'):
         f.write(template)
 
 
-'''
-
-| Competition | Name | Type | Author | Level | Writeup |
-| :--: | :--: | :-----: | :-----: | :-----: | :-----: |
-'''
-
-
 def render_root():
     template = "## Challenges\n\n"
     types = [x[0].replace("./", "")
