@@ -4,7 +4,7 @@
     "author_name": "",
     "author_blog": "",
     "level": 1,
-    "flag": "",
+    "flag": "d95a89317515cc4bd481ce5b2c78dd03e179e8a9d567cd427555df0298e3a427",
     "points": 100,
     "references": [],
     "description": "nc pwn.sniperoj.com 20000",

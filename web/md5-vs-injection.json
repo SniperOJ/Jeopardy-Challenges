@@ -3,11 +3,11 @@
     "competition_website": "",
     "author_name": "",
     "author_blog": "",
-    "level": 3,
-    "flag": "d8a143f99aa861fbda2ea37b0c16e0ea6a150bc9e12b87083a254e11c0885434",
-    "points": 300,
+    "level": 1,
+    "flag": "6a0b0b6c8c9566aee08ead651e28164d3d6565f7009a0d9a84414057cd7dc3bd",
+    "points": 100,
     "references": [],
-    "description": "http://web.sniperoj.com:10017/",
+    "description": "http://web.sniperoj.com:10010",
     "attachments": [],
     "dockerfile": true
 }

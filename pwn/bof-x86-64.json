@@ -4,7 +4,7 @@
     "author_name": "Wang Yihang",
     "author_blog": "https://github.com/wangyihang",
     "level": 1,
-    "flag": "",
+    "flag": "d89b147a521d3dcee4a4f19deb9638313ea553c5f666336253de4434d9e6342f",
     "points": 100,
     "references": [],
     "description": "nc pwn.sniperoj.com 20002",
