@@ -26,6 +26,7 @@
 | Competition | Name | Points | Author | Level |  
 | :---------: | :--: | :----: | :----: | :---: |  
 |[SniperOJ](https://github.com/SniperOJ)|[2048](web#2048)|100|[Wang Yihang](https://github.com/wangyihang)|:star:|  
+|[]()|[baby-ssrf](web#baby-ssrf)|200|[]()|:star::star:|  
 |[]()|[guess-the-code](web#guess-the-code)|200|[]()|:star::star:|  
 |[]()|[r-cursive-revenge](web#r-cursive-revenge)|300|[]()|:star::star::star:|  
 |[SniperOJ](https://github.com/SniperOJ)|[phar](web#phar)|300|[Wang Yihang](https://github.com/wangyihang)|:star::star::star:|  
@@ -35,7 +36,6 @@
 |[SniperOJ](https://github.com/SniperOJ)|[sniperoj-web-browser](web#sniperoj-web-browser)|100|[Wang Yihang](https://github.com/wangyihang)|:star:|  
 |[]()|[as-fast-as-you-can](web#as-fast-as-you-can)|100|[]()|:star:|  
 |[]()|[baby-eval](web#baby-eval)|100|[]()|:star:|  
-|[]()|[babyssrf](web#babyssrf)|200|[]()|:star::star:|  
 |[]()|[bypass-php-exit](web#bypass-php-exit)|100|[]()|:star:|  
 |[2018-SUCTF](http://suctf.xctf.org.cn/)|[2018-suctf-homework](web#2018-suctf-homework)|300|[Wisdom Tree](https://laworigin.github.io/)|:star::star::star:|  
 |[]()|[trick-on-base64](web#trick-on-base64)|300|[]()|:star::star::star:|  
