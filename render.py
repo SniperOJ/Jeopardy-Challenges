@@ -88,7 +88,7 @@ def render_root():
                 data['author_blog']
             )
             dockerfile = "[%s](%s)" % (
-                challenge_name,
+                "Dockerfile",
                 "%s/tree/master/%s/%s" % (
                     dockerfile_repo,
                     challenge_type,
