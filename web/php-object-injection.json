@@ -1,0 +1,9 @@
+{
+    "challenge_type": "WEB",
+    "flag": "",
+    "points": 100,
+    "references": [],
+    "description": "http://web.sniperoj.com:10011",
+    "title": "php-object-injection",
+    "attachments": []
+}

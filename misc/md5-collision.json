@@ -1,0 +1,9 @@
+{
+    "challenge_type": "MISC",
+    "flag": "",
+    "points": 100,
+    "references": [],
+    "description": "http://misc.sniperoj.com:30002/",
+    "title": "md5-collision",
+    "attachments": []
+}

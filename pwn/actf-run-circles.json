@@ -1,0 +1,9 @@
+{
+    "challenge_type": "PWN",
+    "flag": "",
+    "points": 100,
+    "references": [],
+    "description": "nc pwn.sniperoj.com 20000",
+    "title": "run-cricles",
+    "attachments": []
+}
