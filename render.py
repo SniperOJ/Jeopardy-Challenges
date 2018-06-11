@@ -46,10 +46,12 @@ def render_root():
              if not x[0].startswith("./.")
              ][1:]
     for challenge_type in types:
+        challenges = glob.glob("%s/*.json" % (challenge_type))
+        if len(challenges) == 0:
+            continue
         template += '#### %s\n\n' % (challenge_type.upper())
         template += '| Competition | Name | Points | Author | Level |  \n'
         template += '| :---------: | :--: | :----: | :----: | :---: |  \n'
-        challenges = glob.glob("%s/*.json" % (challenge_type))
         for challenge in challenges:
             data = json.loads(open(challenge).read())
             competition = "[%s](%s)" % (

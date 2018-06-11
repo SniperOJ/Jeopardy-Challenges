@@ -21,16 +21,6 @@
 |[]()|you-sha-bi|100|[]()|:star:|  
 |[]()|compare-flag|100|[]()|:star:|  
 
-#### REVERSE
-
-| Competition | Name | Points | Author | Level |  
-| :---------: | :--: | :----: | :----: | :---: |  
-
-#### STEGO
-
-| Competition | Name | Points | Author | Level |  
-| :---------: | :--: | :----: | :----: | :---: |  
-
 #### WEB
 
 | Competition | Name | Points | Author | Level |  
@@ -49,9 +39,4 @@
 |[]()|2018-suctf-homework|100|[]()|:star:|  
 |[]()|trick-on-base64|100|[]()|:star:|  
 |[]()|punctuation-webshell|100|[]()|:star:|  
-
-#### CRYPTO
-
-| Competition | Name | Points | Author | Level |  
-| :---------: | :--: | :----: | :----: | :---: |  
 
