@@ -8,6 +8,8 @@
     "points": 100,
     "references": [],
     "description": "nc pwn.sniperoj.com 20005",
-    "attachments": [],
+    "attachments": [
+        "https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/shellcode-x86-64"
+    ],
     "dockerfile": true
 }

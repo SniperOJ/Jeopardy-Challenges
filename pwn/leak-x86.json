@@ -8,6 +8,8 @@
     "points": 100,
     "references": [],
     "description": "nc pwn.sniperoj.com 20003",
-    "attachments": [],
+    "attachments": [
+        "https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/leak-x86"
+    ],
     "dockerfile": true
 }

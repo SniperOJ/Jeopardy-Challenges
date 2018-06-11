@@ -25,6 +25,7 @@
 
 | Competition | Name | Dockerfile | Points | Author | Level |  
 | :-: |:-: |:-: |:-: |:-: |:-: |  
+|[]()|[md5-vs-injection](web#md5-vs-injection)|[Dockerfile](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/md5-vs-injection)|100|[]()|:star:|  
 |[SniperOJ](https://github.com/SniperOJ)|[2048](web#2048)|[Dockerfile](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/2048)|100|[Wang Yihang](https://github.com/wangyihang)|:star:|  
 |[]()|[baby-ssrf](web#baby-ssrf)|[Dockerfile](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/baby-ssrf)|200|[]()|:star::star:|  
 |[]()|[guess-the-code](web#guess-the-code)|[Dockerfile](https://github.com/SniperOJ/Challenge-Dockerfiles/tree/master/web/guess-the-code)|200|[]()|:star::star:|  

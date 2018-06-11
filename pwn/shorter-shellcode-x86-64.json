@@ -8,6 +8,8 @@
     "points": 300,
     "references": [],
     "description": "nc pwn.sniperoj.com 20006",
-    "attachments": [],
+    "attachments": [
+        "https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/shorter-shellcode-x86-64"
+    ],
     "dockerfile": true
 }

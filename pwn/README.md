@@ -10,6 +10,7 @@
 * References:  
   * https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf  
 * Attachments:  
+  * https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/printable  
 
 #### bof-x86-64  
 * Description: nc pwn.sniperoj.com 20002  
@@ -20,6 +21,7 @@
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
+  * https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/bof-x86-64  
 
 #### actf-run-circles  
 * Description: nc pwn.sniperoj.com 20000  
@@ -30,6 +32,7 @@
 * Competition: [2016-ACTF]()  
 * References:  
 * Attachments:  
+  * https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/actf-run-circles  
 
 #### advanced-leak-x86  
 * Description: nc pwn.sniperoj.com 20001  
@@ -40,6 +43,7 @@
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
+  * https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/advanced-leak-x86  
 
 #### shorter-shellcode-x86-64  
 * Description: nc pwn.sniperoj.com 20006  
@@ -50,6 +54,7 @@
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
+  * https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/shorter-shellcode-x86-64  
 
 #### leak-x86  
 * Description: nc pwn.sniperoj.com 20003  
@@ -60,6 +65,7 @@
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
+  * https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/leak-x86  
 
 #### shellcode-x86  
 * Description: nc pwn.sniperoj.com 20005  
@@ -70,4 +76,5 @@
 * Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
+  * https://raw.githubusercontent.com/SniperOJ/CDN/master/pwn/shellcode-x86-64  
 
