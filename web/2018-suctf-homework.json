@@ -1,11 +1,11 @@
 {
-    "competition_name": "",
-    "competition_website": "",
-    "author_name": "",
-    "author_blog": "",
-    "level": 1,
+    "competition_name": "2018-SUCTF",
+    "competition_website": "http://suctf.xctf.org.cn/",
+    "author_name": "Wisdom Tree",
+    "author_blog": "https://laworigin.github.io/",
+    "level": 3,
     "flag": "",
-    "points": 100,
+    "points": 300,
     "references": [],
     "description": "http://web.sniperoj.com:10013/",
     "attachments": []

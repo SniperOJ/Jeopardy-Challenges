@@ -1,8 +1,8 @@
 {
-    "competition_name": "",
-    "competition_website": "",
-    "author_name": "",
-    "author_blog": "",
+    "competition_name": "SniperOJ",
+    "competition_website": "https://github.com/SniperOJ",
+    "author_name": "Wang Yihang",
+    "author_blog": "https://github.com/wangyihang",
     "level": 1,
     "flag": "",
     "points": 100,

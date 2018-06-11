@@ -2,19 +2,20 @@
 
 #### printable  
 * Description: nc pwn.sniperoj.com 20004  
-* Author: []()  
-* Level: :star:  
-* Points: 100  
-* Competition: []()  
+* Author: [Wang Yihang](https://github.com/wangyihang)  
+* Level: :star::star::star:  
+* Points: 300  
+* Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
+  * https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf  
 * Attachments:  
 
 #### bof-x86-64  
 * Description: nc pwn.sniperoj.com 20002  
-* Author: []()  
+* Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star:  
 * Points: 100  
-* Competition: []()  
+* Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
 
@@ -23,43 +24,43 @@
 * Author: []()  
 * Level: :star:  
 * Points: 100  
-* Competition: []()  
+* Competition: [2016-ACTF]()  
 * References:  
 * Attachments:  
 
 #### advanced-leak-x86  
 * Description: nc pwn.sniperoj.com 20001  
-* Author: []()  
+* Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star:  
 * Points: 100  
-* Competition: []()  
+* Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
 
 #### shorter-shellcode-x86-64  
 * Description: nc pwn.sniperoj.com 20006  
-* Author: []()  
-* Level: :star:  
-* Points: 100  
-* Competition: []()  
+* Author: [Wang Yihang](https://github.com/wangyihang)  
+* Level: :star::star::star:  
+* Points: 300  
+* Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
 
 #### leak-x86  
 * Description: nc pwn.sniperoj.com 20003  
-* Author: []()  
+* Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star:  
 * Points: 100  
-* Competition: []()  
+* Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
 
 #### shellcode-x86  
 * Description: nc pwn.sniperoj.com 20005  
-* Author: []()  
+* Author: [Wang Yihang](https://github.com/wangyihang)  
 * Level: :star:  
 * Points: 100  
-* Competition: []()  
+* Competition: [SniperOJ](https://github.com/SniperOJ)  
 * References:  
 * Attachments:  
 

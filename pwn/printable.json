@@ -1,12 +1,14 @@
 {
-    "competition_name": "",
-    "competition_website": "",
-    "author_name": "",
-    "author_blog": "",
-    "level": 1,
+    "competition_name": "SniperOJ",
+    "competition_website": "https://github.com/SniperOJ",
+    "author_name": "Wang Yihang",
+    "author_blog": "https://github.com/wangyihang",
+    "level": 3,
     "flag": "",
-    "points": 100,
-    "references": [],
+    "points": 300,
+    "references": [
+        "https://leaksource.files.wordpress.com/2014/08/hacking-the-art-of-exploitation.pdf"
+    ],
     "description": "nc pwn.sniperoj.com 20004",
     "attachments": []
 }
