@@ -8,5 +8,6 @@
     "points": 100,
     "references": [],
     "description": "http://web.sniperoj.com:10011",
-    "attachments": []
+    "attachments": [],
+    "dockerfile": true
 }

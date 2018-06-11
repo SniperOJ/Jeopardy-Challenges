@@ -8,5 +8,6 @@
     "points": 100,
     "references": [],
     "description": "",
-    "attachments": []
+    "attachments": [],
+    "dockerfile": false
 }

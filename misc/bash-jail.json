@@ -8,5 +8,6 @@
     "points": 100,
     "references": [],
     "description": "ssh -p 30000 misc.sniperoj.com (ctf:ctf)",
-    "attachments": []
+    "attachments": [],
+    "dockerfile": true
 }

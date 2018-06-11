@@ -12,5 +12,6 @@
     "description": "",
     "attachments": [
         "https://raw.githubusercontent.com/SniperOJ/CDN/master/misc/you-sha-bi.pcapng"
-    ]
+    ],
+    "dockerfile": true
 }

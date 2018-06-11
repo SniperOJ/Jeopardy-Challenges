@@ -87,14 +87,17 @@ def render_root():
                 data['author_name'],
                 data['author_blog']
             )
-            dockerfile = "[%s](%s)" % (
-                "Dockerfile",
-                "%s/tree/master/%s/%s" % (
-                    dockerfile_repo,
-                    challenge_type,
-                    challenge_name,
-                ),
-            )
+            if data['dockerfile']:
+                dockerfile = "[%s](%s)" % (
+                    "Dockerfile",
+                    "%s/tree/master/%s/%s" % (
+                        dockerfile_repo,
+                        challenge_type,
+                        challenge_name,
+                    ),
+                )
+            else:
+                dockerfile = 'RESERVED'
             level = ":star:" * int(data['level'])
             template += "|%s|%s|%s|%s|%s|%s|  \n" % (
                 competition,
