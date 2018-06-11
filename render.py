@@ -10,12 +10,12 @@ def render(challenge_type='WEB'):
         name = challenge.split("/")[1].replace(".json", "")
         data = json.loads(open(challenge).read())
         template += "#### %s  \n" % (name)
+        template += "* Description: %s  \n" % (data['description'])
         template += "* Author: [%s](%s)  \n" % (
             data['author_name'],
             data['author_blog']
         )
-        template += "* Description: %s  \n" % (data['description'])
-        template += "* Level: %s  \n" % (data['level'])
+        template += "* Level: %s  \n" % (":star:" * int(data['level']))
         template += "* Points: %s  \n" % (data['points'])
         template += "* Competition: [%s](%s)  \n" % (
             data['competition_name'],

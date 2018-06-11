@@ -1,27 +1,27 @@
 ## MISC
 
 #### md5-collision  
-* Author: []()  
 * Description: http://misc.sniperoj.com:30002/  
-* Level: 1  
+* Author: []()  
+* Level: :star:  
 * Points: 100  
 * Competition: []()  
 * References:  
 * Attachments:  
 
 #### bash-jail  
-* Author: []()  
 * Description: nc misc.sniperoj.com 30000  
-* Level: 1  
+* Author: []()  
+* Level: :star:  
 * Points: 100  
 * Competition: []()  
 * References:  
 * Attachments:  
 
 #### you-sha-bi  
-* Author: []()  
 * Description:   
-* Level: 1  
+* Author: []()  
+* Level: :star:  
 * Points: 100  
 * Competition: []()  
 * References:  
@@ -30,9 +30,9 @@
   * https://raw.githubusercontent.com/SniperOJ/CDN/master/misc/you-sha-bi.pcapng  
 
 #### compare-flag  
-* Author: []()  
 * Description: nc misc.sniperoj.com 30001  
-* Level: 1  
+* Author: []()  
+* Level: :star:  
 * Points: 100  
 * Competition: []()  
 * References:  
